@@ -1,4 +1,5 @@
 ###第一部分
+
 1. Given the choice of anyone in the world, whom would you want as a dinner guest?
 
 	如果你可以选择世界上任何一个人，你想让谁做你晚餐的客人呢?　
@@ -151,7 +152,7 @@
 	
 	我会和你讲一个很私人化的问题，请你换位思考告诉我如果是你、你会如何处理。
 	你觉得我在面对这个问题的时候是什么感觉呢?
-　　
-The last, terrifying, element of this experiment requires the two participants to stare into each other's eyes for four minutes.　　
+
+  The last, terrifying, element of this experiment requires the two participants to stare into each other's eyes for four minutes.　　
 
 	这个实验最后一个、也是最惊心动魄元素，是需要两位参与者对视4分钟。
