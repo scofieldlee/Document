@@ -1,4 +1,3 @@
-###第一部分
 
 1. Given the choice of anyone in the world, whom would you want as a dinner guest?
 
